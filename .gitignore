@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+.env
+.video-tmp-*
+.seek-tmp-*
